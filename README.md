@@ -1,2 +1,2 @@
 # personal-CV
-My first HTML website
+My first website
